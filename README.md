@@ -53,14 +53,23 @@ CSS Tools
   * Optional reading
     * [Home Page and Navigation Principles](https://developers.google.com/web/fundamentals/layouts/principles/)
     * [Navigation and Action Patterns](https://developers.google.com/web/fundamentals/layouts/navigation-patterns/)
+* DPI 
+  * [High DPI Images for Variable Pixel Densities](http://www.html5rocks.com/en/mobile/high-dpi/) 
+* Responsive Images
+  * [Responsive Images: If you’re just changing resolutions, use srcset](http://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
+  * [Built-in Browser Support for Responsive Images](http://www.html5rocks.com/en/tutorials/responsive/picture-element/)
+* SVG
+  * [Using SVG](http://css-tricks.com/using-svg/) 
 
 #### Exercises
 1. 
 
 ### Advanced CSS
 #### Reading
-* [Animation best practices in Google's Web Fundamentals](https://developers.google.com/web/fundamentals/look-and-feel/animations/)
+* CSS Animations
+  * [Animation best practices in Google's Web Fundamentals](https://developers.google.com/web/fundamentals/look-and-feel/animations/)
 
 ### Performance
 #### Reading
-* [Optimizing the critical rendering path](https://developers.google.com/web/fundamentals/layouts/navigation-patterns/)
+* Critical Rendering Path
+  * [Optimizing the critical rendering path](https://developers.google.com/web/fundamentals/layouts/navigation-patterns/)
